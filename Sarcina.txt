@@ -1,0 +1,15 @@
+Sarcina: Creați un program care cere utilizatorului să introducă o notiță de la tastatură.
+Programul trebuie să salveze textul într-un fișier numit jurnal.txt.
+La fiecare rulare, textul nou nu trebuie să îl șteargă pe cel vechi, ci să fie adăugat la finalul fișierului, pe o linie nouă.
+
+
+Sarcina: Presupunem că aveți un fișier numit date.txt care conține o listă de nume cu o suma (câte unul pe linie). Scrieti un script care:
+Link fisier: https://github.com/Vlagen/FileExercises/blob/main/date.txt
+Citește toate datele din fișier.
+Calculează suma, media aritmetică și determină cel mai mare număr la fel cu numele atribuit.
+Afișează rezultatele în consolă, dar le și salvează într-un fișier nou numit raport.txt.
+
+Sarcina: Creați un program care "curăță" un text.
+Programul citește conținutul unui fișier articol.txt.
+Utilizatorul introduce un cuvânt pe care dorește să îl elimine.
+Programul trebuie să înlocuiască toate aparițiile acelui cuvânt cu simbolul **** și să salveze rezultatul într-un fișier nou articol_cenzurat.txt.
